@@ -6,7 +6,7 @@
 
 ### A Faithful Recreation for Modern Android Devices
 
-This project is an open-source _(SOURCE FILES UNAVAILABLE CURRENTLY)_, 64-bit Android Java recreation of the original **Flappy Bird** game, designed to run on modern Android devices. It aims to be a pixel-perfect and behaviorally accurate replica of the beloved and notoriously challenging game, providing an authentic experience for both nostalgic fans and new players.
+This project is an open-source*, 64-bit Android Java recreation of the original **Flappy Bird** game, designed to run on modern Android devices. It aims to be a pixel-perfect and behaviorally accurate replica of the beloved and notoriously challenging game, providing an authentic experience for both nostalgic fans and new players.
 
 This project is born out of a passion for the original game and a desire to see it preserved and enjoyed on current hardware. It is a not-for-profit endeavor, created for educational and entertainment purposes only.
 
@@ -71,5 +71,6 @@ We welcome contributions to help improve this recreation and keep it faithful to
 
 - **Dong Nguyen (.GEARS)** – for creating the original Flappy Bird and inspiring this project.
 - **The Open Source Community** – for the tools, libraries, and knowledge that made this possible.
+- *Source files unavailable currently, planned to become open source soon.
 
 ---
