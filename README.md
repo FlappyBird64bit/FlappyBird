@@ -1,6 +1,8 @@
+# Flappy Bird 64-bit
 
-# Flappy Bird 64![20250625_164442](https://github.com/user-attachments/assets/bcac0cd7-7513-4d93-8461-deaf9bc0a74d)
--bit  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcac0cd7-7513-4d93-8461-deaf9bc0a74d" alt="Flappy Bird Screenshot" width="300">
+</p>
 
 ### A Faithful Recreation for Modern Android Devices
 
@@ -54,7 +56,7 @@ To install the game on your Android device:
 
 ## 👨‍💻 How to Contribute
 
-We welcome contributions to help improve this recreation and keep it faithful to the original. To contribute:
+We welcome contributions to help improve this recreation and keep it faithful to the original. To contribute (SOURCE FILES UNAVAILABLE CURRENTLY):
 
 1. Fork the repository.
 2. Create a new branch:  
