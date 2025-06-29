@@ -29,7 +29,7 @@ This recreation:
 It has been created with the utmost respect for the original work and its creator. The primary goal of this project is to **preserve and celebrate** this classic game for a new generation of hardware and players.
 
 We believe this project falls under **fair use** as a **non-commercial, transformative work of commentary and preservation**.  
-If you are a copyright holder and believe this project infringes upon your rights, please contact us and we will take appropriate action.
+If you are a copyright holder and believe this project infringes upon your rights, please contact us and we will take appropriate action. We do not wish to harm Flappy Bird in any way.
 
 ---
 
