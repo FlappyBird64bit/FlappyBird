@@ -1,4 +1,4 @@
-# Flappy Bird 64-bit
+# Flappy Bird 64-bit Recreation
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bcac0cd7-7513-4d93-8461-deaf9bc0a74d" alt="Flappy Bird Screenshot" width="300">
